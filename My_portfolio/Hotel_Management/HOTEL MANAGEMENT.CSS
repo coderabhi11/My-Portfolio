@@ -1,0 +1,93 @@
+div{
+
+display: flex;
+margin-right: 200px;
+
+
+
+}
+h3{
+    margin-right:80px;
+    display: flex;
+}
+div{
+   background-color:#001433;
+    color: white;
+    font-size: 15px;
+    width: 1200px;
+    height: 40px;
+    text-decoration: none;
+}
+img{
+    margin-right: 50px;
+}
+h3{
+    margin-right: 100px;
+}
+
+h3{
+    color: white ;
+}
+.ice
+{
+    background-color: burlywood;
+}
+.icecream
+{
+    background-color: white;
+    
+
+}
+
+.room a
+{
+    /* margin-left: 30px; */
+    margin-left: 0px;
+    margin-right: 40px;
+}
+.nonvegedish a
+{
+    margin-left: 0px;
+    margin-right: 40px;
+    text-decoration: none;
+}
+.ice a{
+    text-decoration: none;
+}
+body{
+    margin-left: 20px;
+    background-color: white;
+}
+.head
+{
+
+    font-size: 13px;
+    text-decoration: none;
+   
+}
+.head   :hover
+{
+    color: aqua;
+
+}
+ button{
+    margin-right:70px;
+    width: 190px;
+   background-color: white;
+   border: 1px solid aquamarine;
+   height: 40px;
+   text-decoration: none;
+} 
+.buttons
+{
+    background-color: white;
+   
+}
+button:hover
+{
+
+   
+    background-color: turquoise;
+    border-radius: 30px;
+    
+}
